@@ -20,12 +20,13 @@
 
 
 ## The dataset has been taken from below <b> link </b> <br />
-    https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals
+     https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals
 
 Along the project, some questions were emerged, and they are listed below for each category.
 
 
-<h4>Categorization </h4>
+## Categorization
+[click here to jump to my anchor](#custom_anchor_name)
 <ul style="circle">
   <li> How many different cities are there in the data set?</li>
   <li>How many different sports are there in the data set?</li>
@@ -39,14 +40,14 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li>How many men are there in the competition?</li>
 </ul>
 
-<h4>Comparisons </h4>
+## Comparisons 
 <ul style="circle">
   <li> In which sport the most gold medals were collected?</li>
   <li>In which sport the most silver medals were collected?</li>
   <li>In which sport the most bronze medals were collected?</li>
 </ul>
 
-<h4>Additional Features (Tooltips, and etc.) </h4>
+## Additional Features (Tooltips, and etc.) 
 <ul style="circle">
   <li>When a city clicked on main page, show the exact location on a map.</li>
   <li>When a country is clicked on athletes' name, show the exact location on a map.</li>
@@ -60,6 +61,28 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li> Use pie chart to compare gender numbers.</li>
   <li> Add a table to show each countries' total gold, silver and bronze medals.</li>
 </ul>
+
+## Explanation for Categorization 
+   
+   <p> 
+<p> This primary page shows the answers of  that are simply visualized. </p>
+   <img src = "https://user-images.githubusercontent.com/110297297/221658186-bb8433f2-13ac-43c2-92c1-9902230db662.png"></img> 
+   </p>
+
+
+<a name="categorization"></a>
+# some header
+
+
+
+
+
+
+
+
+
+
+
 
 
 
