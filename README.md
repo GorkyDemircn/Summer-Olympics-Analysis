@@ -26,7 +26,7 @@ Along the project, some questions were emerged, and they are listed below for ea
 
 
 ## Categorization
-[click here to jump to my anchor](#custom_anchor_name)
+[click here to jump to my anchor](#categorization)
 <ul style="circle">
   <li> How many different cities are there in the data set?</li>
   <li>How many different sports are there in the data set?</li>
