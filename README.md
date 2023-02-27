@@ -26,7 +26,7 @@ Along the project, some questions were emerged, and they are listed below for ea
 
 
 ## Categorization
-[click here to jump to my anchor](#categorization)
+
 <ul style="circle">
   <li> How many different cities are there in the data set?</li>
   <li>How many different sports are there in the data set?</li>
@@ -69,7 +69,7 @@ Along the project, some questions were emerged, and they are listed below for ea
    <img src = "https://user-images.githubusercontent.com/110297297/221658186-bb8433f2-13ac-43c2-92c1-9902230db662.png"></img> 
    </p>
 
-
+[click here to jump to my anchor](#categorization)
 <a name="categorization"></a>
 # some header
 
