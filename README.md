@@ -32,7 +32,6 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li>How many discipline are there in the data set?</li>
   <li>How many countries are there in the data set?</li>
   <li>How many medals are there in the data set (extract as silver, bronze, gold)</li>
-  <li>How many athlete are there in the data set?</li>
   <li>How many gold medals are there?</li>
   <li>How many silver medals are there?</li>
   <li>How many bronze medals are there?</li>
