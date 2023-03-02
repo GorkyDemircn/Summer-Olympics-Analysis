@@ -62,13 +62,13 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li> Add a table to show each countries' total gold, silver and bronze medals.</li>
 </ul>
 
-## Explanation for Categorization 
+## Explanation for Categorization
    
-   <p> This primary page shows the answers of Categorization that are simply visualized.</p>
+   <p> This primary page shows the answers of Categorization that are simply visualized below.</p>
    
    <p>For the questions, click the link below: </p>
    
-   [Categorization](#categorization)
+   [Categorization](#Categorization)
    
    <p> 
    <img src = "https://user-images.githubusercontent.com/110297297/221658186-bb8433f2-13ac-43c2-92c1-9902230db662.png"></img> 
