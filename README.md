@@ -40,6 +40,14 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li>How many men are there in the competition?</li>
 </ul>
 
+## Distributions
+<ul style="circle">
+  <li> Which top countries had how many gold, silver, and bronze medals as Total according to selections?</li>
+  <li> Which top athletes had how many gold, silver, and bronze medals as Total according to selections?</li>
+  <li> Which low athletes had how many gold, silver, and bronze medals as Total according to selections?</li>
+</ul>
+
+
 ## Comparisons 
 <ul style="circle">
   <li> In which sport the most gold medals were collected?</li>
@@ -52,7 +60,6 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li>When a city clicked on main page, show the exact location on a map.</li>
   <li>When a country is clicked on athletes' name, show the exact location on a map.</li>
   <li> Use pie chart to compare gender numbers.</li>
-  
   <li> Use bar chart to compare medal types.</li>
   <li> Add date as a slicer to determine the range.</li>
   <li> Add city as a slicer to determine the city.</li>
@@ -74,6 +81,17 @@ Along the project, some questions were emerged, and they are listed below for ea
    <img src = "https://user-images.githubusercontent.com/110297297/221658186-bb8433f2-13ac-43c2-92c1-9902230db662.png"></img> 
    </p>
       
+## Explanation for Distributions
+   <p> This page shows the answers of Distributions and some of the distributions in Gender and Total Medal types. </p>
+     
+   <p>For the questions, click the link below: </p>
+   
+   [Distributions](#Distributions)
+   
+   <p>
+   <img src = "https://user-images.githubusercontent.com/110297297/222535564-4fc47a5d-285c-4023-8ea8-5a4be8d9fe0f.png"></img> 
+
+   </p>
 
 
 
