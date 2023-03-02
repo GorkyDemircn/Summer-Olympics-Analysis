@@ -25,7 +25,7 @@
 Along the project, some questions were emerged, and they are listed below for each category.
 
 
-## Categorization
+## Categorization / Main
 
 <ul style="circle">
   <li> How many different cities are there in the data set?</li>
@@ -64,11 +64,11 @@ Along the project, some questions were emerged, and they are listed below for ea
 
 ## Explanation for Categorization
    
-   <p> This primary page shows the answers of Categorization that are simply visualized below.</p>
+   <p> This primary page shows the answers of Categorization / Main that are simply visualized below.</p>
    
    <p>For the questions, click the link below: </p>
    
-   [Categorization](#Categorization)
+   [Categorization / Main](#Categorization / Main)
    
    <p> 
    <img src = "https://user-images.githubusercontent.com/110297297/221658186-bb8433f2-13ac-43c2-92c1-9902230db662.png"></img> 
