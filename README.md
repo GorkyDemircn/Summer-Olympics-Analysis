@@ -64,7 +64,9 @@ Along the project, some questions were emerged, and they are listed below for ea
 
 ## Explanation for Categorization 
    
-   <p> This primary page shows the answers of Categorization that are simply visualized. </p>
+   <p> This primary page shows the answers of Categorization that are simply visualized.</p>
+   
+   <p>For the questions, click the link below: </p>
    
    [Categorization](#categorization)
    
