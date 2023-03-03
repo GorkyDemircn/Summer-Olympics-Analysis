@@ -10,10 +10,11 @@
  <img src="https://img.shields.io/github/commit-activity/w/GorkyDemircn/Summer-Olympics-Analysis">
 </p>
 
-<p> The purpose of this data analysis project is looking at the data set which has been taken from <b> Kaggle </b> entitled  <b>Summer Olympics Medals</b> evaluated from  <b> 1976 to 2008</b>  to answer some questions using <b> Microsoft Power BI </b>. Additionally, to look at specific results, on the left hand side for each page, there are some tools that can help to list values. </p>
+<p> The purpose of this data analysis project is looking at the data set which has been taken from <b> Kaggle </b> entitled  <b>Summer Olympics Medals</b> evaluated from  <b> 1976 to 2008</b>  to answer some questions using <b> Microsoft Power BI </b>. </p>
 
 ## Basic Overview
 <p align="middle">
+<p> To look at specific results, on the left hand side for each page, there are some tools that can help to list values. </p>
  <img src="https://user-images.githubusercontent.com/110297297/221599697-9e206577-c9b2-4529-89be-0a34216fbd0f.gif">
 </p>
 
