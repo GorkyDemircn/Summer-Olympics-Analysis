@@ -54,9 +54,9 @@ Along the project, some questions were emerged, and they are listed below for ea
 
 ## Comparisons 
 <ul style="circle">
-  <li> In which sport the most gold medals was collected?</li>
-  <li>In which sport the most silver medals was collected?</li>
-  <li>In which sport the most bronze medals was collected?</li>
+  <li> In which sport the most gold medals were collected?</li>
+  <li>In which sport the most silver medals were collected?</li>
+  <li>In which sport the most bronze medals were collected?</li>
   <li>  Who was the most loaded athlete to collect medals?</li>
   <li> Add a table to show each year and each discipline as a general view and underneath of them, show each athlete's performance.</li>
 
