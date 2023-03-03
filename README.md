@@ -10,10 +10,10 @@
  <img src="https://img.shields.io/galaxytoolshed/created-date/Summer-Olympics-Analysis/GorkyDemircn?style=flat-square">
 </p>
 
-<p> The purpose of this data analysis project is looking at the data set which has been taken from <b> Kaggle </b> entitled  <b>Summer Olympics Medals</b> evaluated from  <b> 1976 to 2008</b>  to answer some questions using <b> Microsoft Power BI </b>. </p>
+<p> The purpose of this data analysis project is looking at the data set which has been taken from <b> Kaggle </b> entitled  <b>Summer Olympics Medals</b> evaluated from  <b> 1976 to 2008</b>  to answer some questions using <b> Microsoft Power BI </b>. Additionally, to look at specific results, on the left hand side for each page, there are some tools that can help to list values. </p>
 
 ## Basic Overview
-<p align="left">
+<p align="middle">
  <img src="https://user-images.githubusercontent.com/110297297/221599697-9e206577-c9b2-4529-89be-0a34216fbd0f.gif">
 </p>
 
@@ -47,12 +47,20 @@ Along the project, some questions were emerged, and they are listed below for ea
   <li> Which low athletes had how many gold, silver, and bronze medals as Total according to selections?</li>
 </ul>
 
+## Evaluations
+<ul style="circle">
+  <li> Add a trend line to show total medals (in all types) over the years.</li>
+  <li> Add a stack bar to show all medal types separately in terms of Countries</li>
+</ul>
 
 ## Comparisons 
 <ul style="circle">
-  <li> In which sport the most gold medals were collected?</li>
-  <li>In which sport the most silver medals were collected?</li>
-  <li>In which sport the most bronze medals were collected?</li>
+  <li> In which sport the most gold medals was collected?</li>
+  <li>In which sport the most silver medals was collected?</li>
+  <li>In which sport the most bronze medals was collected?</li>
+  <li>  Who was the most loaded athlete to collect medals?</li>
+  <li> Add a table to show each year and each discipline as a general view and underneath of them, show each athlete's performance.</li>
+
 </ul>
 
 ## Additional Features (Tooltips, and etc.) 
@@ -92,24 +100,29 @@ Along the project, some questions were emerged, and they are listed below for ea
    <img src = "https://user-images.githubusercontent.com/110297297/222535564-4fc47a5d-285c-4023-8ea8-5a4be8d9fe0f.png"></img> 
 
    </p>
+   
+   
+   ## Explanation for Yearly Distributions
+   <p> This page shows the tasks of Yearly Distributions in terms of Countries and general outline. </p>
+     
+   <p>For the tasks, click the link below: </p>
+   
+   [Evaluations](#Evaluations)
+   
+   <p>
+   <img src = "https://user-images.githubusercontent.com/110297297/222782341-b4ca81c1-997e-4f79-a061-bb3e3a4c348c.png"></img> 
+   </p>
 
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   ## Explanation for Comparisons
+   <p> This page shows the answers of Comparisons</p>
+     
+   <p>For the questions, click the link below: </p>
+   
+   [Comparisons](#Comparisons)
+   
+   <p>
+   <img src = "https://user-images.githubusercontent.com/110297297/222783905-59155430-1638-46b5-9d5f-5d09f0a8d6c9.png"></img> 
+   </p>
+   
 
