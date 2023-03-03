@@ -7,7 +7,7 @@
 <p align="center">
  <img src="https://img.shields.io/github/contributors/GorkyDemircn/Summer-Olympics-Analysis">
  <img src="https://img.shields.io/github/last-commit/GorkyDemircn/Summer-Olympics-Analysis">
- <img src="https://img.shields.io/galaxytoolshed/created-date/Summer-Olympics-Analysis/GorkyDemircn?style=flat-square">
+ <img src="https://img.shields.io/github/commit-activity/w/GorkyDemircn/Summer-Olympics-Analysis">
 </p>
 
 <p> The purpose of this data analysis project is looking at the data set which has been taken from <b> Kaggle </b> entitled  <b>Summer Olympics Medals</b> evaluated from  <b> 1976 to 2008</b>  to answer some questions using <b> Microsoft Power BI </b>. Additionally, to look at specific results, on the left hand side for each page, there are some tools that can help to list values. </p>
