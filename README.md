@@ -18,7 +18,6 @@
 </p>
 
 
-
 ## The dataset has been taken from below <b> link </b> <br />
      https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals
 
@@ -50,7 +49,7 @@ Along the project, some questions were emerged, and they are listed below for ea
 ## Evaluations
 <ul style="circle">
   <li> Add a trend line to show total medals (in all types) over the years.</li>
-  <li> Add a stack bar to show all medal types separately in terms of Countries</li>
+  <li> Add a stack bar to show all medal types separately in terms of Countries.</li>
 </ul>
 
 ## Comparisons 
@@ -115,7 +114,7 @@ Along the project, some questions were emerged, and they are listed below for ea
 
 
    ## Explanation for Comparisons
-   <p> This page shows the answers of Comparisons</p>
+   <p> This page shows the answers of Comparisons.</p>
      
    <p>For the questions, click the link below: </p>
    
