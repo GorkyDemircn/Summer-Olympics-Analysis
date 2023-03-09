@@ -67,7 +67,7 @@ Along the project, some questions were emerged, and they are listed below for ea
 <ul style="circle">
   <li>When a city clicked on main page, show the exact location on a map.</li>
   <li>When a country is clicked on athletes' name, show the exact location on a map.</li>
-  <li> Use pie chart to compare gender numbers.</li>
+  <li> Use bar chart to compare gender numbers.</li>
   <li> Use bar chart to compare medal types.</li>
   <li> Add date as a slicer to determine the range.</li>
   <li> Add city as a slicer to determine the city.</li>
